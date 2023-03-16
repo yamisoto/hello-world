@@ -4,19 +4,19 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="CGTLX"><b>Enter Name</b></label>
+    <label for="CGTLX"><b>CGTLX</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="YOUR DIGGITS"><b>Enter mobile</b></label>
+    <label for="YOUR DIGGITS"><b>My Number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="ADDRESS!!"><b>Enter Email</b></label>
+    <label for="ADDRESS!!"><b>My Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psss"><b>Password</b></label>
+    <label for="psss"><b>SECRETS..</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
@@ -31,7 +31,7 @@
     <p>Already have an account? do theright thing<a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> what have you learned today </h1>
+   <h1> i learn something new every day .........to GOD BE THE GLORY</h1>
 
   
 </form>
