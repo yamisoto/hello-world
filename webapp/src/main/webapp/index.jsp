@@ -31,7 +31,7 @@
     <p>Already have an account? do theright thing<a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> i learn something new every day .........to GOD BE THE GLORY</h1>
+   <h1> What i learn daily ...continous learning ... i will be  very successful ... to God be the glory </h1>
 
   
 </form>
